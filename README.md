@@ -13,25 +13,25 @@ I'm a Full Stack Software Engineer with the ambition to create impact one day at
   </div>
 
   <div style="margin-right: 20px; list-style-type: none; display: inline;">
-    <a href="https://www.linkedin.com/in/ahmedshahrour">
+    <a href="https://www.linkedin.com/in/ahmedshahrour" target="_blank">
       <img align="left" alt="Ahmed's LinkedIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/linkedin.svg" />
     </a>
   </div>
 
   <div style="margin-right: 20px; list-style-type: none; display: inline;">
-    <a href="https://ahmedshahrour.medium.com">
+    <a href="https://ahmedshahrour.medium.com" target="_blank">
       <img align="left" alt="Ahmed's Medium Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/medium.svg" />
     </a>
   </div>
 
   <div style="margin-right: 20px; list-style-type: none; display: inline;">
-    <a href="https://www.hackerrank.com/ahmedshahrour">
+    <a href="https://www.hackerrank.com/ahmedshahrour" target="_blank">
       <img align="left" alt="Ahmed's HackerRank Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/hackerrank.svg" />
     </a>
   </div>
 
   <div style="margin-right: 20px;  list-style-type: none; display: inline;">
-    <a href="https://leetcode.com/ahmedshahrour">
+    <a href="https://leetcode.com/ahmedshahrour" target="_blank">
       <img align="left" alt="Ahmed's Leetcode Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/leetcode.svg" />
     </a>
   </div>
