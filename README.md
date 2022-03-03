@@ -5,74 +5,74 @@ I'm a Full Stack Software Engineer with the ambition to create impact one day at
 | ------------- | ------------- |
 ## Profiles
 
-<ul style="display: inline; margin-top: 10px;">
-  <li style="margin-right: 20px; list-style-type: none;">
+<div style="display: inline; margin-top: 10px;">
+  <div style="margin-right: 20px; list-style-type: none;">
     <a href="https://twitter.com/ahmed_shahrour">
       <img align="left" alt="Ahmed's Twitter Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/twitter.svg" />
     </a>
-  </li>
+  </div>
 
-  <li style="margin-right: 20px; list-style-type: none; display: inline;">
+  <div style="margin-right: 20px; list-style-type: none; display: inline;">
     <a href="https://www.linkedin.com/in/ahmedshahrour">
       <img align="left" alt="Ahmed's LinkedIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/linkedin.svg" />
     </a>
-  </li>
+  </div>
 
-  <li style="margin-right: 20px; list-style-type: none; display: inline;">
+  <div style="margin-right: 20px; list-style-type: none; display: inline;">
     <a href="https://ahmedshahrour.medium.com">
       <img align="left" alt="Ahmed's Medium Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/medium.svg" />
     </a>
-  </li>
+  </div>
 
-  <li style="margin-right: 20px; list-style-type: none; display: inline;">
+  <div style="margin-right: 20px; list-style-type: none; display: inline;">
     <a href="https://www.hackerrank.com/ahmedshahrour">
       <img align="left" alt="Ahmed's HackerRank Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/hackerrank.svg" />
     </a>
-  </li>
+  </div>
 
-  <li style="margin-right: 20px;  list-style-type: none; display: inline;">
+  <div style="margin-right: 20px;  list-style-type: none; display: inline;">
     <a href="https://leetcode.com/ahmedshahrour">
       <img align="left" alt="Ahmed's Leetcode Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/leetcode.svg" />
     </a>
-  </li>
-</ul>
+  </div>
+</div>
 
 <br />
 
 ## Tools
 
-<ul style="display: inline; margin-top: 10px;">
-  <li style="margin-right: 20px; list-style-type: none; display: inline;">
+<div style="display: inline; margin-top: 10px;">
+  <div style="margin-right: 20px; list-style-type: none; display: inline;">
       <img align="left" alt="Javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
-  </li>
+  </div>
 
-  <li style="margin-right: 20px; list-style-type: none; display: inline;">
+  <div style="margin-right: 20px; list-style-type: none; display: inline;">
       <img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/react.svg" />
-  </li>
+  </div>
 
-  <li style="margin-right: 20px; list-style-type: none; display: inline;">
+  <div style="margin-right: 20px; list-style-type: none; display: inline;">
       <img align="left" alt="Vue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/vuedotjs.svg" />
-  </li>
+  </div>
 
-  <li style="margin-right: 20px; list-style-type: none; display: inline;">
+  <div style="margin-right: 20px; list-style-type: none; display: inline;">
       <img align="left" alt="Bootstrap" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/bootstrap.svg" />
-  </li>
+  </div>
 
-  <li style="margin-right: 20px; list-style-type: none; display: inline;">
+  <div style="margin-right: 20px; list-style-type: none; display: inline;">
       <img align="left" alt="Node" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/nodedotjs.svg" />
-  </li>
+  </div>
 
-  <li style="margin-right: 20px; list-style-type: none; display: inline;">
+  <div style="margin-right: 20px; list-style-type: none; display: inline;">
       <img align="left" alt="PostgreSQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/postgresql.svg" />
-  </li>
+  </div>
 
-  <li style="margin-right: 20px; list-style-type: none; display: inline;">
+  <div style="margin-right: 20px; list-style-type: none; display: inline;">
       <img align="left" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/mysql.svg" />
-  </li>
+  </div>
 
-  <li style="margin-right: 20px; list-style-type: none; display: inline;">
+  <div style="margin-right: 20px; list-style-type: none; display: inline;">
       <img align="left" alt="MongoDB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/mongodb.svg" />
-  </li>
+  </div>
 </ul>
 <br />
 
