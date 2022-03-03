@@ -11,25 +11,25 @@ I'm a Full Stack Software Engineer with the ambition to create impact one day at
     </a>
   </li>
 
-  <li style="margin-right: 20px; list-style-type: none;">
+  <li style="margin-right: 20px; list-style-type: none; display: inline;">
     <a href="https://www.linkedin.com/in/ahmedshahrour">
       <img align="left" alt="Ahmed's LinkedIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/linkedin.svg" />
     </a>
   </li>
 
-  <li style="margin-right: 20px; list-style-type: none;">
+  <li style="margin-right: 20px; list-style-type: none; display: inline;">
     <a href="https://ahmedshahrour.medium.com">
       <img align="left" alt="Ahmed's Medium Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/medium.svg" />
     </a>
   </li>
 
-  <li style="margin-right: 20px; list-style-type: none;">
+  <li style="margin-right: 20px; list-style-type: none; display: inline;">
     <a href="https://www.hackerrank.com/ahmedshahrour">
       <img align="left" alt="Ahmed's HackerRank Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/hackerrank.svg" />
     </a>
   </li>
 
-  <li style="margin-right: 20px;  list-style-type: none;">
+  <li style="margin-right: 20px;  list-style-type: none; display: inline;">
     <a href="https://leetcode.com/ahmedshahrour">
       <img align="left" alt="Ahmed's Leetcode Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/leetcode.svg" />
     </a>
@@ -40,35 +40,35 @@ I'm a Full Stack Software Engineer with the ambition to create impact one day at
 ## Tools
 
 <ul style="display: flex; margin-top: 10px;">
-  <li style="margin-right: 20px; list-style-type: none;">
+  <li style="margin-right: 20px; list-style-type: none; display: inline;">
       <img align="left" alt="Javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
   </li>
 
-  <li style="margin-right: 20px; list-style-type: none;">
+  <li style="margin-right: 20px; list-style-type: none; display: inline;">
       <img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/react.svg" />
   </li>
 
-  <li style="margin-right: 20px; list-style-type: none;">
+  <li style="margin-right: 20px; list-style-type: none; display: inline;">
       <img align="left" alt="Vue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/vuedotjs.svg" />
   </li>
 
-  <li style="margin-right: 20px; list-style-type: none;">
+  <li style="margin-right: 20px; list-style-type: none; display: inline;">
       <img align="left" alt="Bootstrap" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/bootstrap.svg" />
   </li>
 
-  <li style="margin-right: 20px; list-style-type: none;">
+  <li style="margin-right: 20px; list-style-type: none; display: inline;">
       <img align="left" alt="Node" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/nodedotjs.svg" />
   </li>
 
-  <li style="margin-right: 20px; list-style-type: none;">
+  <li style="margin-right: 20px; list-style-type: none; display: inline;">
       <img align="left" alt="PostgreSQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/postgresql.svg" />
   </li>
 
-  <li style="margin-right: 20px; list-style-type: none;">
+  <li style="margin-right: 20px; list-style-type: none; display: inline;">
       <img align="left" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/mysql.svg" />
   </li>
 
-  <li style="margin-right: 20px; list-style-type: none;">
+  <li style="margin-right: 20px; list-style-type: none; display: inline;">
       <img align="left" alt="MongoDB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/mongodb.svg" />
   </li>
 </ul>
