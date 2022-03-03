@@ -4,7 +4,8 @@ I'm a Full Stack Software Engineer with the ambition to create impact one day at
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-shahrour&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-shahrour&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 ## Profiles
-<ul style="display: flex; margin-top: 10px;">
+
+<ul style="display: inline; margin-top: 10px;">
   <li style="margin-right: 20px; list-style-type: none;">
     <a href="https://twitter.com/ahmed_shahrour">
       <img align="left" alt="Ahmed's Twitter Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.12/icons/twitter.svg" />
@@ -35,11 +36,12 @@ I'm a Full Stack Software Engineer with the ambition to create impact one day at
     </a>
   </li>
 </ul>
+
 <br />
 
 ## Tools
 
-<ul style="display: flex; margin-top: 10px;">
+<ul style="display: inline; margin-top: 10px;">
   <li style="margin-right: 20px; list-style-type: none; display: inline;">
       <img align="left" alt="Javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
   </li>
